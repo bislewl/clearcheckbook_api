@@ -1,5 +1,4 @@
 <?php
-// https://www.clearcheckbook.com/developer/api
 
 define('CLEARCHECKBOOK_USERNAME','');
 define('CLEARCHECKBOOK_PASSWORD','');

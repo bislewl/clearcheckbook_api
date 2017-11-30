@@ -61,7 +61,7 @@ class clearcheckbook_api
         return $return;
     }
 
-    // insertUser - Adds a new user to ClearCheckbook
+    // insertUser - Adds a new user to ClearCheckbook @todo add Function
     public function insertUser()
     {
 
@@ -96,13 +96,13 @@ class clearcheckbook_api
         return $return;
     }
 
-    // editAccount - Edits a current user's account
+    // editAccount - Edits a current user's account @todo add Function
     public function editAccount()
     {
 
     }
 
-    // deleteAccount - Deletes a current user's account
+    // deleteAccount - Deletes a current user's account @todo add Function
     public function deleteAccount()
     {
 
@@ -110,25 +110,25 @@ class clearcheckbook_api
 
     // Categories
 
-    //  getCategories - Gets the current user's categories
+    //  getCategories - Gets the current user's categories @todo add Function
     public function getCategories()
     {
 
     }
 
-    // insertCategory - Adds a category for the current user
+    // insertCategory - Adds a category for the current user @todo add Function
     public function insertCategory()
     {
 
     }
 
-    // editCategory - Edits a category for the current user
+    // editCategory - Edits a category for the current user @todo add Function
     public function editCategory()
     {
 
     }
 
-    // deleteCategory - Deletes a category for the current user
+    // deleteCategory - Deletes a category for the current user @todo add Function
     public function deleteCategory()
     {
 
@@ -232,13 +232,13 @@ class clearcheckbook_api
         return $return;
     }
 
-    // editJive - Changes the jive status of a transaction for the current user
+    // editJive - Changes the jive status of a transaction for the current user @todo add Function
     public function editJive()
     {
 
     }
 
-    // getHistory - List of all modified transactions for current user
+    // getHistory - List of all modified transactions for current user @todo add Function
     public function getHistory()
     {
 

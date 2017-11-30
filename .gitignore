@@ -3,5 +3,5 @@
 *.iml
 out
 gen
-
+/ignored_files/
 /includes/ignored_files/
